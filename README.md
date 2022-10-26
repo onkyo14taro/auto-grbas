@@ -14,6 +14,7 @@ This project is for a paper in submission.
 - `shell/`: Shell scripts.
 - `src/`: Python scripts.
 - `tests/`: Test scripts.
+- `Supplementary_Programs/`: Programs for acoustic feature calculation.
 
 
 ## Dependencies
