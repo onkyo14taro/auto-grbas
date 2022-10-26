@@ -1,7 +1,7 @@
 # Supplementary Programs
 
 This directory contains programs for calculating acoustic features.  
-Note that some scripts are only available in the "Supplementary Materials" section of our paper.
+*Note that some scripts are only available in "Supplementary Materials" of our paper.*
 
 
 ## Programs
@@ -68,7 +68,7 @@ The acoustic features that can be calculated are as follows:
 
 ## References
 
-[1] Y. Maryn, P. Corthals, P. Van Cauwenberge, N. Roy, and M. D. Bodt, "Toward Improved Ecological Validity in the Acoustic Measurement of Overall Voice Quality: Combining Continuous Speech and Sustained Vowels," J. Voice, vol. 24, no. 5, pp. 540--555, 2010.
+[1] Y. Maryn, P. Corthals, P. Van Cauwenberge, N. Roy, and M. D. Bodt, "Toward Improved Ecological Validity in the Acoustic Measurement of Overall Voice Quality: Combining Continuous Speech and Sustained Vowels," J. Voice, vol. 24, no. 5, pp. 540--555, 2010.  
 [2] B. Barsties v. Latoszek, Y. Maryn, E. Gerrits, and M. De Bodt, "The Acoustic Breathiness Index (ABI): A Multivariate Acoustic Model for Breathiness," J. Voice, vol. 31, no. 4, pp. 511.e11--511.e27, Jul. 2017.  
 [3] J. M. Hillenbrand and R. A. Houde, "Acoustic correlates of breathy vocal quality: Dysphonic voices and continuous speech," J. Speech Lang. Hear. Res., vol. 39, no. 2, pp. 311--321, 1996.  
 [4] D. Michaelis, T. Gramss, and H. W. Strube, "Glottal-to-Noise Excitation Ratio - A New Measure for Describing Pathological Voices," Acustica, vol. 83, no. 4, pp. 700--706, 1997.  
