@@ -1,7 +1,7 @@
 # Supplementary Programs
 
 This directory contains programs for calculating acoustic features.  
-*Note that some scripts are only available in "Supplementary Materials" of our paper.*
+*Note that some scripts are only available in ["Supplementary Materials" of our paper](https://www.sciencedirect.com/science/article/pii/S0892199722003472).*
 
 
 ## Programs
