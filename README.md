@@ -1,9 +1,15 @@
-# {{Title Place Holder}}
+# Automatic GRBAS Scoring of Pathological Voices using Deep Learning and a Small Set of Labeled Voice Data
 
+- Authors: Shunsuke Hidaka, Yogaku Lee, Moe Nakanishi, Kohei Wakamiya, Takashi Nakagawa, and Tokihiko, Kaburagi
+- Journal: Journal of Voice
+- Date: 2022
+- Link: [https://www.sciencedirect.com/science/article/pii/S0892199722003472](https://www.sciencedirect.com/science/article/pii/S0892199722003472)
 
 ## About
 
-This project is for a paper in submission.
+This repository contains the implementation of "[Automatic GRBAS Scoring of Pathological Voices using Deep Learning and a Small Set of Labeled Voice Data](https://www.sciencedirect.com/science/article/pii/S0892199722003472)".
+
+*Note that some scripts in `Supplementary_Programs/` are only available in ["Supplementary Materials" of our paper](https://www.sciencedirect.com/science/article/pii/S0892199722003472).*
 
 
 ## Contents
